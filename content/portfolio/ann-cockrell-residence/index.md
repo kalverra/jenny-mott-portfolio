@@ -11,8 +11,8 @@ thumbnail: ann-cockrell-residence/exterior.jpg
 ---
 
 A home in the North Carolina woods for my aunt in
-her retirement. House provides an open and still cozy feel, and boasts a volume ceilings and a
-large screened porch for the porch swing. Design and hand drawings by me.
+her retirement. House provides an open and still cozy feel, and boasts volume ceilings and a
+large screened-in porch for a swing. Design and hand drawings by me.
 
 Hover over or open images in a new tab for a closer look!
 
