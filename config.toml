@@ -41,12 +41,12 @@ p = "It seems that this page doesn't exist."
 portfolio = "project"
 
 [params.sidebar]
-backgroundImage = ''          # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-gradientOverlay = ''          # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-logo = "/images/profile.jpeg" # - default "/images/edna-west.jpg"
+backgroundImage = ''         # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+gradientOverlay = ''         # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+logo = "/images/profile.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
 favicon = ""
-customCSS = ""
+customCSS = "/css/image_zoom.css"
 
 # [params.social]
 # github = "https://github.com/"

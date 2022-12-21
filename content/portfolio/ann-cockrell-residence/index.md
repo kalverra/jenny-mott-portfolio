@@ -1,7 +1,7 @@
 ---
 title: Ann Cockrell Residence
 description: This is the description of our sample project
-date: "2019-05-02T19:47:09+02:00"
+date: "2022-12-21T19:47:09+02:00"
 jobDate: 2019
 work: [design, architecture]
 techs: [javascript, D3]
@@ -9,19 +9,9 @@ designs: [Photoshop]
 thumbnail: ann-cockrell-residence/exterior.jpg
 ---
 
-<style>
-.zoom {
-  transition: transform .2s; /* Animation */
-}
+This would be a description of the project.
 
-.zoom:hover {
-  transform: scale(1.75); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
-</style>
-
-This would be a description of a residential project.
-
-Open images in a new tab for a closer look!
+Hover over or open images in a new tab for a closer look!
 
 ## Exterior Design
 
@@ -33,4 +23,12 @@ Open images in a new tab for a closer look!
 
 ## Interior Design
 
+<div class="zoom">
+
 ![interior design](interior-design.jpg)
+
+</div>
+
+## Interior Shot
+
+![interior shot](interior.jpg)
