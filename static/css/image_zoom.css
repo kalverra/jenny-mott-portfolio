@@ -1,5 +1,6 @@
 .zoom {
   transition: transform .2s;
+  z-index: 2;
   /* Animation */
 }
 

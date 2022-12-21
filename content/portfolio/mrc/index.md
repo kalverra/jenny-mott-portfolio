@@ -6,6 +6,7 @@ jobDate: 2021
 work: [Commercial, AutoCAD, "Alabama"]
 techs: []
 designs: []
+images: [mrc/0.jpg]
 thumbnail: mrc/0.jpg
 ---
 
@@ -15,17 +16,16 @@ and Autocad drawings in conjunction with Segars Engineering.
 
 These images are very high resolution. Best to open images in a new tab for a closer look.
 
-
 ## Level 2
 
 <div class="zoom">
 
-![](1.jpg)
+![1](1.jpg)
 
 </div>
 
 <div class="zoom">
 
-![](2.jpg)
+![2](2.jpg)
 
 </div>

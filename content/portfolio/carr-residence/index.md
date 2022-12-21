@@ -1,11 +1,12 @@
 ---
 title: Carr Residence
-description: Extensive renovations
+description: Extensive renovations to the Carr residence
 date: "2022-12-21T19:47:09+02:00"
 jobDate: 2021
 work: [Residential, AutoCAD, "Shipman, VA"]
 techs: []
 designs: []
+images: [carr-residence/elevation.jpg]
 thumbnail: carr-residence/elevation.jpg
 ---
 
