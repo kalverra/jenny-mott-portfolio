@@ -1,11 +1,12 @@
 ---
 title: Ann Cockrell Residence
-description: This is the description of our sample project
+description: House design for Ann Cockrell in Chapel Hill, NC
 date: "2022-12-21T19:47:09+02:00"
 jobDate: 2005
 work: [Residential, Hand Drawn, "Chapel Hill, NC"]
 techs: []
 designs: []
+images: [ann-cockrell-residence/exterior.jpg]
 thumbnail: ann-cockrell-residence/exterior.jpg
 ---
 
@@ -33,4 +34,8 @@ Hover over or open images in a new tab for a closer look!
 
 ## Interior Shot
 
+<div class="zoom">
+
 ![interior shot](interior.jpg)
+
+</div>

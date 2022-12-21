@@ -1,11 +1,12 @@
 ---
 title: Headmaster's House
-description: This is the description of our sample project
+description: SJS Headmaster's house concept
 date: "2022-12-21T19:47:09+02:00"
 jobDate: 2019
 work: [Residential, Hand Drawn, "Hagerstown, MD"]
 techs: []
 designs: []
+images: [headmasters-house/main-floor-plan.jpg]
 thumbnail: headmasters-house/main-floor-plan.jpg
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: Dickinson and Wait Residence
-description: Addition and Renovation
+description: Addition and renovation to the Dickinson and Wait residence
 date: "2022-12-21T19:47:09+02:00"
 jobDate: 2021
 work: [Residential, AutoCAD, "Shepherdstown, WV"]
 techs: []
 designs: []
+images: [dickinson-and-wait-residence/main-floor.jpg]
 thumbnail: dickinson-and-wait-residence/main-floor.jpg
 ---
 

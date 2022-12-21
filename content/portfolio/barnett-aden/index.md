@@ -1,11 +1,12 @@
 ---
 title: The Barnett Aden
-description: A large apartment building
-date: "2022-12-21T19:47:09+02:00"
+description: A large DC apartment building
+date: "2022-12-21T20:47:09+02:00"
 jobDate: 2022
 work: [Commercial, Revit, "Washington DC"]
 techs: []
 designs: []
+images: [barnett-aden/elevations.jpg]
 thumbnail: barnett-aden/elevations.jpg
 ---
 

@@ -6,6 +6,7 @@ jobDate: 2018
 work: [Commercial, AutoCAD, "Gordonsville, VA"]
 techs: []
 designs: []
+images: [klockner/0.jpg]
 thumbnail: klockner/0.jpg
 ---
 
@@ -21,7 +22,7 @@ These images are very high resolution. Best to open images in a new tab for a cl
 
 <div class="zoom">
 
-![](1.jpg)
+![1](1.jpg)
 
 </div>
 
@@ -29,12 +30,12 @@ These images are very high resolution. Best to open images in a new tab for a cl
 
 <div class="zoom">
 
-![](2.jpg)
+![2](2.jpg)
 
 </div>
 
 <div class="zoom">
 
-![](3.jpg)
+![3](3.jpg)
 
 </div>
