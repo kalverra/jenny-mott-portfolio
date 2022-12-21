@@ -11,4 +11,4 @@ thumbnail: merck/0.jpg
 
 Description
 
-Hover over or open images in a new tab for a closer look!
+These images are very high resolution. Best to open images in a new tab for a closer look.

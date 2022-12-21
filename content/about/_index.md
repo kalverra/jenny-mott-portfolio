@@ -4,4 +4,6 @@ description: Hey, I'm Jenny Mott
 images: ["/images/profile.jpg"]
 ---
 
-This is my about page.
+I've had a long and varied career as an architect, assistant, and saleswoman.
+
+![resume](./resume.png)
