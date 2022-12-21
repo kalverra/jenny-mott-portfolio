@@ -10,4 +10,4 @@ thumbnail: commercial/barnett-aden-concept-image.jpg
 projectUrl: https://www.sampleorganization.org
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
+This would be a description of a residential project.
