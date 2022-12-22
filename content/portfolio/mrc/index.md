@@ -6,8 +6,9 @@ jobDate: 2021
 work: [Commercial, AutoCAD, "Alabama"]
 techs: []
 designs: []
-images: [mrc/0.jpg]
-thumbnail: mrc/0.jpg
+images: [mrc/0-compressed.jpg]
+uncompressed: mrc/0.jpg
+thumbnail: mrc/0-compressed.jpg
 ---
 
 Life Safety and IBC
@@ -19,13 +20,17 @@ These images are very high resolution. Best to open images in a new tab for a cl
 ## Level 2
 
 <div class="zoom">
+<a href="1.jpg">
 
-![1](1.jpg)
+![1](1-compressed.jpg)
 
+</a>
 </div>
 
 <div class="zoom">
+<a href="2.jpg">
 
-![2](2.jpg)
+![2](2-compressed.jpg)
 
+</a>
 </div>

@@ -6,8 +6,9 @@ jobDate: 2022
 work: [Commercial, Revit, "Washington DC"]
 techs: []
 designs: []
-images: [barnett-aden/elevations.jpg]
-thumbnail: barnett-aden/elevations.jpg
+images: [barnett-aden/elevations-compressed.jpg]
+uncompressed: barnett-aden/elevations.jpg
+thumbnail: barnett-aden/elevations-compressed.jpg
 ---
 
 I was hired to assist as a Project Architect at Powe Studio
@@ -19,43 +20,55 @@ These images are very high resolution. Best to open images in a new tab for a cl
 ## Ground Floor
 
 <div class="zoom">
+<a href="ground-floor.jpg" target="_blank">
 
-![ground floor](ground-floor.jpg)
+![ground floor](ground-floor-compressed.jpg)
 
+</a>
 </div>
 
 ## Kitchens
 
 <div class="zoom">
+<a href="kitchens.jpg" target="_blank">
 
-![kitchens](kitchens.jpg)
+![kitchens](kitchens-compressed.jpg)
 
+</a>
 </div>
 
 ## Bath Elevations
 
 <div class="zoom">
+<a href="bath-elevations.jpg" target="_blank">
 
-![bath elevations](bath-elevations.jpg)
+![bath elevations](bath-elevations-compressed.jpg)
 
+</a>
 </div>
 
 ## Wall Sections
 
 <div class="zoom">
+<a href="section-17.jpg" target="_blank">
 
-![sections](section-17.jpg)
+![sections](section-17-compressed.jpg)
 
+</a>
 </div>
 
 <div class="zoom">
+<a href="section-17.jpg" target="_blank">
 
-![ground floor](wall-sections.jpg)
+![ground floor](section-17-compressed.jpg)
 
+</a>
 </div>
 
 <div class="zoom">
+<a href="wall-section-22.jpg" target="_blank">
 
-![wall sections](wall-section-22.jpg)
+![wall sections](wall-section-22-compressed.jpg)
 
+</a>
 </div>
