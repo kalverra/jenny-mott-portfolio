@@ -15,7 +15,7 @@ Production Building housing offices, conference space and lab to
 be inserted into complicated site hemmed in by existing buildings, extensive exterior cable tray,
 and a railroad. Design and drawings in Autocad are mine.
 
-These images are very high resolution. Best to open images in a new tab for a closer look.
+Click on images to see full resolution.
 
 ## Foundation
 

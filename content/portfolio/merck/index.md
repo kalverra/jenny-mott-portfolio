@@ -14,7 +14,7 @@ thumbnail: merck/0-compressed.jpg
 Renovation of existing lab
 space into office and conference space. Design and drawings in Autocad by me.
 
-These images are very high resolution. Best to open images in a new tab for a closer look.
+Click on images to see full resolution.
 
 ## Elevations
 
