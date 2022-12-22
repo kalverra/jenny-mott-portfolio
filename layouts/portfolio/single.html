@@ -6,7 +6,8 @@
 </div>
 
 <div class="zoom">
-  <img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />
+  <a href="/portfolio/{{ .Params.uncompressed }}"> <img title="{{.Title}}" alt="{{.Title}}"
+      src="/portfolio/{{ .Params.Thumbnail }}" /> </a>
 </div>
 
 {{ .Content }}

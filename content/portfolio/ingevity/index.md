@@ -6,8 +6,9 @@ jobDate: 2019
 work: [Commercial, AutoCAD, "Covington, VA"]
 techs: []
 designs: []
-images: [ingevity/0.jpg]
-thumbnail: ingevity/0.jpg
+images: [ingevity/0-compressed.jpg]
+uncompressed: ingevity/0.jpg
+thumbnail: ingevity/0-compressed.jpg
 ---
 
 Production Building housing offices, conference space and lab to
@@ -19,23 +20,29 @@ These images are very high resolution. Best to open images in a new tab for a cl
 ## Foundation
 
 <div class="zoom">
+<a href="1.jpg">
 
-![1](1.jpg)
+![1](1-compressed.jpg)
 
+</a>
 </div>
 
 ## Ground Floor
 
 <div class="zoom">
+<a href="2.jpg">
 
-![2](2.jpg)
+![2](2-compressed.jpg)
 
+</a>
 </div>
 
 ## Elevations
 
 <div class="zoom">
+<a href="3.jpg">
 
-![3](3.jpg)
+![3](3-compressed.jpg)
 
+</a>
 </div>

@@ -7,7 +7,8 @@ work: [Commercial, AutoCAD, "Elkton, VA"]
 techs: []
 designs: []
 images: [merck/0.jpg]
-thumbnail: merck/0.jpg
+uncompressed: merck/0.jpg
+thumbnail: merck/0-compressed.jpg
 ---
 
 Renovation of existing lab
@@ -18,21 +19,27 @@ These images are very high resolution. Best to open images in a new tab for a cl
 ## Elevations
 
 <div class="zoom">
+<a href="0.jpg">
 
-![1](1.jpg)
+![1](1-compressed.jpg)
 
+</a>
 </div>
 
 <div class="zoom">
+<a href="3.jpg">
 
-![3](3.jpg)
+![3](3-compressed.jpg)
 
+</a>
 </div>
 
 ## Furniture Plan
 
 <div class="zoom">
+<a href="2.jpg">
 
-![2](2.jpg)
+![2](2-compressed.jpg)
 
+</a>
 </div>
