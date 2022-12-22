@@ -17,7 +17,7 @@ space was ideally positioned for use as control room for large factory floor bel
 drawings in Autocad by me with analysis of complicated code issues of existing fire shutters and
 assistance of additional architect.
 
-These images are very high resolution. Best to open images in a new tab for a closer look.
+Click on images to see full resolution.
 
 ## Demolition Plan
 
