@@ -17,4 +17,4 @@ I've had a long and varied career in architectural and developer's offices, a re
 
 ### In My Free Time
 
-I am the Treasurer of the Jack Jouett Chapter of the National Society of the Daughters of the American Revolution. I enjoy knitting, sewing, and general crafts. I also love learning about local nature, photography, and spending some time at the shooting range.
+I am the Treasurer of the [Jack Jouett Chapter of the National Society of the Daughters of the American Revolution](https://jackjouettdar.org/). I enjoy knitting, sewing, and general crafts. I also love learning about local nature, photography, and spending some time at the shooting range.
