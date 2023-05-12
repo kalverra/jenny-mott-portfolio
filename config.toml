@@ -48,14 +48,14 @@ logo = "/images/profile.jpg"               # - default "/images/edna-west.jpg"
 favicon = ""
 customCSS = "/css/image_zoom.css"
 
-# [params.social]
+[params.social]
 # github = "https://github.com/"
 # twitter = "https://twitter.com/"
 # linkedin = "https://www.linkedin.com/in/"
 # medium = "https://medium.com/"
 # codepen = "https://codepen.io/"
 # facebook = "https://www.facebook.com/"
-# youtube = "https://www.youtube.com/"
+youtube = "https://www.youtube.com/@FerneyHollowCreations-ku4rz"
 # instagram = "https://www.instagram.com/"
 # gitlab = "https://gitlab.com/"
 # keybase = "https://keybase.io/"
